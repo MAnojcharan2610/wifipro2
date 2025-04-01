@@ -55,6 +55,9 @@ Second, only the latest versions of these programs are supported and must be ins
 
 Run Wifipro2
 ----------
+git clone https://github.com/MAnojcharan2610/wifipro2.git
+cd wifipro2
+sudo ./Wifipro2.py
 
 
 Install Wifipro2
